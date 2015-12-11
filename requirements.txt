@@ -1,2 +1,4 @@
 Sphinx==1.3.3
 tut==0.2
+sphinxcontrib-spelling
+pyenchant==1.6.6
